@@ -1,8 +1,7 @@
-## Instrucciones de Instalación:
+# Instructions:
 
-
-# Para construir el proyecto ejecutar
+## Build Project
 $ grunt
 
-# Para ejecutr el proyecto
+## Run Project
 $ grunt serve
